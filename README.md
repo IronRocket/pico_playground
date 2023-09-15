@@ -1,2 +1,2 @@
 # pico_playground
-pico hosted website source code
+Website source code hosted by pico
